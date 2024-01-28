@@ -1,6 +1,9 @@
 Presentator v2 SPA
 ======================================================================
 
+> [!IMPORTANT]
+> This repo is for the older Presentator v2 and it is no longer maintained.
+
 ![Interface screenshot](https://i.imgur.com/ijvXlMI.png)
 
 Presentator SPA is a frontend interface for the Presentator v2 REST API.
